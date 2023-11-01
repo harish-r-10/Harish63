@@ -39,14 +39,20 @@ The dataset used for this project is sourced from [Kaggle](https://www.kaggle.co
 To run the code, follow these steps:
 
 1.Ensure you have Python installed. You can download it from the official Python website.
+
 2.Install Jupyter Notebook using the following command:
 pip install notebook
+
 3.Install the necessary Python packages using the following command:
 pip install scikit-learn pandas numpy matplotlib seaborn
+
 4.Clone the repository or download the project files to your local machine.
+
 5.Navigate to the project directory.
+
 6.Open the Jupyter Notebook file (e.g., house_price_prediction.ipynb) using the following command:
 jupyter notebook house_price_prediction.ipynb
+
 7.execute the cells in the Jupyter Notebook to run the code and visualize the results.
 
 ## Installation
