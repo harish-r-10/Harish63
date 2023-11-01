@@ -10,14 +10,23 @@ It utilizes a dataset containing essential features such as the size of the hous
 ## Table of Contents
 
 - [Data Source](#data-source)
+  
 - [Dependencies](#dependencies)
+  
 - [Installation](#installation)
+  
 - [Usage](#usage)
+  
 - [Data](#data)
+  
 - [Training and Evaluation](#training-and-evaluation)
+  
 - [Configuration](#configuration)
+  
 - [File Structure](#file-structure)
+  
 - [Contributing](#contributing)
+  
 - [License](#license)
 
 ## Data Source
@@ -89,11 +98,17 @@ The dataset used for this project is stored in the 'data' directory. It includes
 
 The project directory has the following structure:
 ├── data
+
 │ ├── train.csv
+
 │ ├── test.csv
+
 ├── house_price_prediction.ipynb
+
 ├── README.md
+
 ├── requirements.txt
+
 └── .gitignore
 
 ## Contributing
